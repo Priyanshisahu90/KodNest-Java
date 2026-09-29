@@ -19,6 +19,11 @@ public class Main {
             else{
                  System.out.println("Not allow to watch movie");
             }
-        }
+            }
+            else{
+                System.out.println("Buy Ticket");
+            }
     }
 }
+
+
